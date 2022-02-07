@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 30%;
+height: 75%;
+margin-top: 40px;
+border-radius: 20%;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-image: url("background.jpg");
+    height: 100%;
+}
+#img{
+    margin-top: 50px;
+    size:40%;
+}
+.buttons{
+    font-size: 30px;
+    width:75%;
+    border-radius: 10%;
+}
